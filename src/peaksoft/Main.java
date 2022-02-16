@@ -75,8 +75,8 @@ public class Main {
             }
         }
 
-        Farm farm = new Farm("Naryn", "Dilbara", cows, horses, sheep);
-        Farm farm2 = new Farm("Batken","Dinara",cows1,sheeps2,horses2);
+        Farm farm = new Farm("Naryn", "Nargiza", cows, horses, sheep);
+        Farm farm2 = new Farm("Batken","Nargiza",cows1,sheeps2,horses2);
         System.out.println(farm);
         System.out.println("--------------------------------------------------------");
         System.out.println(farm2);
